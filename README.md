@@ -11,3 +11,7 @@ Easily integrate Famo.us and AngularJS apps.
 Read More
 
 https://famo.us/integrations/angular/#/intro# famous-angular
+
+# Demo Code 
+https://github.com/udiedrichsen/demo-meteor-angular-famous
+
